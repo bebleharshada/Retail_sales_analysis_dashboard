@@ -35,3 +35,6 @@ i.  Product Strategy: Identify best-selling and underperforming categories for i
 ii. Customer Targeting: Segment customers by age, gender, and spending behavior for tailored promotions.
 Profitability Optimization: Focus on Electronics as the highest-margin category.
 iii.Sales Planning: Leverage peak shopping hours and customer behavior trends to maximize revenue.
+
+**Screenshot**
+<img width="1920" height="1080" alt="RETAIL_DASHBOARD" src="https://github.com/user-attachments/assets/1295b268-7bc9-4d3e-b22f-0f4cca93803f" />
